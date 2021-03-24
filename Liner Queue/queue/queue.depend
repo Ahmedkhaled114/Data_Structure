@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1612644995 source:e:\embedded_systems_diploma\c cource\data structure\liner queue\queue\main.c
+	"queue.h"
+
+1612571017 source:e:\embedded_systems_diploma\c cource\data structure\liner queue\queue\queue.c
+	"queue.h"
+
+1612568737 e:\embedded_systems_diploma\c cource\data structure\liner queue\queue\queue.h
+	"std_types.h"
+
+1612563760 e:\embedded_systems_diploma\c cource\data structure\liner queue\queue\std_types.h
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1612304468 source:e:\embedded_systems_diploma\c cource\data structure\stack\stack\stack_ds.c
+	"stack_ds.h"
+
+1612300885 e:\embedded_systems_diploma\c cource\data structure\stack\stack\stack_ds.h
+
+1612304171 source:e:\embedded_systems_diploma\c cource\data structure\stack\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack_ds.h"
+
+1612297058 e:\embedded_systems_diploma\c cource\data structure\stack\stack\stack_ds.c
+	"stack_ds.h"
+
+1612224471 e:\embedded_systems_diploma\c cource\data structure\stack\stack\std_types.h
+	<stdio.h>
+	<stdlib.h>
+

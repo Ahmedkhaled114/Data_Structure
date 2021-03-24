@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1601037057 source:d:\embedded systems\github\basicdatastructures\04_linear_linked_list\linearlinked_list.c
+	"linearlinked_list.h"
+
+1601034142 d:\embedded systems\github\basicdatastructures\04_linear_linked_list\linearlinked_list.h
+	"std_types.h"
+
+1601036760 d:\embedded systems\github\basicdatastructures\04_linear_linked_list\std_types.h
+	<stdio.h>
+	<stdlib.h>
+
+1601037200 source:d:\embedded systems\github\basicdatastructures\04_linear_linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linearlinked_list.h"
+
+1613304901 source:e:\embedded_systems_diploma\c cource\data structure\linked_list\linearlinked_list\linearlinked_list.c
+	"linearlinked_list.h"
+
+1612661932 e:\embedded_systems_diploma\c cource\data structure\linked_list\linearlinked_list\linearlinked_list.h
+	"std_types.h"
+
+1601467754 e:\embedded_systems_diploma\c cource\data structure\linked_list\linearlinked_list\std_types.h
+	<stdio.h>
+	<stdlib.h>
+
+1601467754 source:e:\embedded_systems_diploma\c cource\data structure\linked_list\linearlinked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linearlinked_list.h"
+
